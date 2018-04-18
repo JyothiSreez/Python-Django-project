@@ -34,5 +34,5 @@ urlpatterns = [
     url(r'^tag/(?P<tag_slug>[\w-]+)/$', views.post_by_tag, name='post_by_tag'),
     url(r'^(?P<pk>\d+)/(?P<post_slug>[\w\d-]+)$', views.post_detail, name='post_detail'),
     url(r'^$', views.post_list, name='post_list'),
-	url(r'^contact/$', views.feedback, name='contact')
+
 ]
