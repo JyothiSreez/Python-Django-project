@@ -1,5 +1,6 @@
-# Traveler Blog (The Top Sights Of Abbotsford)
-  A blog created using Python, Html and Css in Django framework.
+# Traveler Blog (The Top Sights Of Abbotsford) 
+- A test purpose project
+ - A blog created using Python, Html and Css(limited) in Django framework.
  
 #### Description
 
