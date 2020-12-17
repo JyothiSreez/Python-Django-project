@@ -6,7 +6,7 @@
 
 This website has four pages
 - **Home** page
-- **Login**page
+- **Log in**page
 - **Feedback** form page
 - **Admin** login page
 
